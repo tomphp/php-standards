@@ -1,0 +1,11 @@
+{
+    "name": "tomphp/php-standards",
+    "authors": [
+        {
+            "name": "Tom Oram",
+            "email": "tom@x2k.co.uk"
+        }
+    ],
+    "license": "MIT",
+    "require": {}
+}
